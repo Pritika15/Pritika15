@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Pritika Sharma</h1>
 <h3 align="center">Coder-Developer-Learner 🤖</h3>
 <h6> I am a website developer and programmer with robust problem-solving skills and proven
@@ -7,8 +6,6 @@ experience in creating and designing websites in a test driven environment. I lo
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritika15&label=Profile%20views&color=0e75b6&style=flat" alt="pritika15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritika15" alt="pritika15" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@pritika15314786" target="blank"><img src="https://img.shields.io/twitter/follow/@pritika15314786?logo=twitter&style=for-the-badge" alt="@pritika15314786" /></a> </p>
 
 - 🔭 I’m currently working on **Artificial Intelligence and Data Structures(C++)**
 
