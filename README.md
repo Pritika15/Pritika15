@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritika Sharma</h1>
 <h3 align="center">Coder-Developer-Learner 🤖</h3>
+<h5>Upcoming SWE Intern @ Celigo'24 | Former AEH Intern @ Accenture'23 | CSA certified Pega Architect | BlackRock Hacknight'23 | Optum Stratethon'22 | Artificial Intelligence Enthusiast</h5>
 <h6> I am a website developer and programmer with robust problem-solving skills and proven
 experience in creating and designing websites in a test driven environment. I love working in the feild of Artificial Intelligence and devising solutions for the current issues for a better tomorrow! </h6>
 
